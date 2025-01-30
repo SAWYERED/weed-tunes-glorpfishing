@@ -2,7 +2,7 @@
     "Id": "weedntunes_glorpfishing",
     "PackPath": "weed-tunes-glorpfishing.pck",
     "Dependencies": [
-        "Sulayre.Lure"
+        "TeamLure-LureRefreshed-4.3.1"
     ],
     "Metadata": {
         "Name": "weed-tunes-glorpfishing",
