@@ -5,14 +5,14 @@
 Thanks for playing with weed-tunes-glorpfishing!
 
 [WEED+TUNES]
+
 ever wonder what happens to the meteors that you don't catch...
-![20250124_102520-min](https://github.com/user-attachments/assets/104bdf3e-3f76-41a6-908b-d32c766627e4)
 Adds 31 Aliens !
-
-
 Version: 1.0.1
-
 Authors: SAWYERED
+![20250124_102520-min](https://github.com/user-attachments/assets/104bdf3e-3f76-41a6-908b-d32c766627e4)
+
+
 
 [MAIN](https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK)
 ![8d13795bec6871072bb58d92c9f78849](https://github.com/user-attachments/assets/04e2d05f-e373-4d38-af7b-e8b035b92e88)
