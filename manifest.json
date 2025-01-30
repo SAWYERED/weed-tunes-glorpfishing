@@ -1,0 +1,14 @@
+{
+    "Id": "weed-tunes-glorpfishing",
+    "PackPath": "weed-tunes-glorpfishing.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ],
+    "Metadata": {
+        "Name": "weed-tunes-glorpfishing",
+        "Author": "SAWYERED",
+        "Description": "[WEED+TUNES] ever wonder what happens to the meteors that you don't catch...",
+        "Version": "1.0.1",
+        "Homepage": "https://github.com/SAWYERED/weed-tunes-glorpfishing"
+    }
+}
